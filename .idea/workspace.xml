@@ -4,67 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/css/css.css" line="225" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8204af79-fa95-4ece-bbdc-00afae2f869d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/about/about_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/about/about_07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/about/about_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/about/about_15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/about/about_17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/about/about_21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/contact/contact_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/contact/contact_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/contact/contact_09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/contact/contact_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/info/info_27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/product/product_17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.nicescroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.nicescroll.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/css/swiper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/css/swiper.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/js/swiper.esm.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/js/swiper.esm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/js/swiper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/js/swiper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/swiper-4.4.1/dist/js/swiper.min.js.map" beforeDir="false" />
-    </list>
+    <list default="true" id="8204af79-fa95-4ece-bbdc-00afae2f869d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -123,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+            <state relative-caret-position="377">
+              <caret line="89" column="72" lean-forward="true" selection-start-line="89" selection-start-column="72" selection-end-line="89" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -202,12 +142,7 @@
             <path>
               <item name="lesweet" type="b2602c69:ProjectViewProjectNode" />
               <item name="lesweet" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lesweet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lesweet" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,7 +154,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/kaifagongju/phpstudy/PHPTutorial/WWW/lesweet" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -259,18 +194,17 @@
       <workItem from="1590763402583" duration="5314000" />
       <workItem from="1590848783153" duration="18155000" />
       <workItem from="1590904179671" duration="5656000" />
-      <workItem from="1590918964491" duration="4446000" />
+      <workItem from="1590918964491" duration="4598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47837000" />
+    <option name="totallyTimeSpent" value="47989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14752372" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14752372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +216,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.67969596" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6789989" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -512,8 +446,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        <state relative-caret-position="377">
+          <caret line="89" column="72" lean-forward="true" selection-start-line="89" selection-start-column="72" selection-end-line="89" selection-end-column="72" />
           <folding>
             <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
