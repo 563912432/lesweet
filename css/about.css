@@ -1,0 +1,108 @@
+.swiper1 .swiper-slide {
+    height: 610px;
+}
+
+.swiper1 .swiper-slide-ad1 {
+    background: url("../image/product/product_01.jpg") no-repeat center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.swiper1.swiper-container {
+    --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+}
+
+.about_section1 {
+    background: url("../image/about/about_03.jpg") no-repeat center;
+    background-size: contain;
+    width: 1080px;
+    height: 350px;
+    margin: 40px auto;
+}
+.about_section2 {
+    background: url("../image/about/about_07.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.about_section3 {
+    background: url("../image/about/about_11.jpg") no-repeat center;
+    background-size: contain;
+    width: 520px;
+    height: 88px;
+    margin: 20px auto;
+}
+.about_section4 {
+    width: 1080px;
+    height: 190px;
+    margin: 10px auto 50px;
+}
+.about_section4_image1 {
+    background: url("../image/about/about_15.jpg") no-repeat center;
+    background-size: contain;
+    width: 189px;
+    height: 189px;
+    margin-right: 33px;
+    float: left;
+}
+.about_section4_image2 {
+    background: url("../image/about/about_17.jpg") no-repeat center;
+    background-size: contain;
+    width: 189px;
+    height: 189px;
+    float: left;
+}
+
+
+@media screen and (max-width: 768px) {
+    .swiper-slide {
+        width: 100%;
+        height: 200px;
+    }
+
+    .swiper1.swiper-container {
+        --swiper-navigation-size: 20px;
+    }
+
+    .swiper2.swiper-container {
+        --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+    }
+    .swiper1 .swiper-slide {
+        height: 200px;
+    }
+    .about_section1 {
+        width: 95%;
+        height: 120px;
+        margin: 10px auto;
+    }
+    .about_section2 {
+        background: url("../image/about/about_07.jpg") no-repeat center;
+        background-size: cover;
+        width: 100%;
+        height: 165px;
+    }
+    .about_section3 {
+        width: 40%;
+        height: 30px;
+        margin: 10px auto;
+    }
+    .about_section4 {
+        width: 100%;
+        padding-left: 2%;
+        height: auto;
+    }
+    .about_section4_image1 {
+        width: 18%;
+        height: 65px;
+        float: left;
+        margin-right: 2%;
+        margin-bottom: 10px;
+    }
+    .about_section4_image2 {
+        width: 18%;
+        height: 65px;
+        float: left;
+        margin-right: 2%;
+    }
+}

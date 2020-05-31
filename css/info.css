@@ -1,0 +1,328 @@
+.swiper1 .swiper-slide {
+    height: 610px;
+}
+
+.swiper1 .swiper-slide-ad1 {
+    background: url("../image/product/product_01.jpg") no-repeat center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.swiper1.swiper-container {
+    --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+}
+
+.product_section1 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.product_section1_title {
+    background: url("../image/info/info_03.jpg") no-repeat center;
+    background-size: contain;
+    width: 350px;
+    height: 78px;
+    margin: 10px auto;
+}
+
+.product_section1_image1 {
+    background: url("../image/info/info_06.jpg") no-repeat center;
+    width: 1080px;
+    height: 278px;
+    margin: 0 auto;
+}
+
+.product_section1_image2 {
+    background: url("../image/info/info_09.jpg") no-repeat center;
+    width: 1080px;
+    height: 278px;
+    margin: 40px auto;
+}
+
+.product_section1_image3 {
+    background: url("../image/info/info_11.jpg") no-repeat center;
+    width: 1080px;
+    height: 278px;
+    margin: 40px auto 30px;
+}
+
+.product_section1_text {
+    margin: 0 auto;
+    width: 1080px;
+    position: relative;
+    height: 22px;
+}
+
+.product_section1_image4 {
+    background: url("../image/info/info_14.jpg") no-repeat center;
+    width: 163px;
+    height: 22px;
+    float: right;
+}
+
+.product_section2 {
+    background: url("../image/info/info_16.jpg") no-repeat center;
+    height: 430px;
+    margin: 20px 0;
+    position: relative;
+}
+
+.product_section2_title {
+    position: absolute;
+    background: url("../image/info/info_17.png") no-repeat center;
+    background-size: contain;
+    width: 350px;
+    height: 78px;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.product_section3 {
+    background: url("../image/info/info_19.jpg") no-repeat center;
+    background-size: contain;
+    width: 350px;
+    height: 78px;
+    margin: 20px auto 10px;
+}
+
+.swiper2 {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.swiper2 .swiper-button-prev {
+    /*margin-left: -20px;*/
+}
+
+.swiper2 .swiper-slide {
+    height: 305px;
+}
+
+.swiper2.swiper-container {
+    --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+    --swiper-navigation-size: 35px;
+}
+
+.swiper2-slide-ad1 {
+    background: url("../image/info/info_23.jpg") no-repeat center;
+    background-size: cover;
+    height: 214px;
+    width: 320px;
+}
+
+.swiper2-slide-ad2 {
+    background: url("../image/info/info_25.jpg") no-repeat center;
+    background-size: cover;
+    height: 214px;
+    width: 320px;
+}
+
+.swiper2-slide-ad3 {
+    background: url("../image/info/info_27.jpg") no-repeat center;
+    background-size: cover;
+    height: 214px;
+    width: 320px;
+}
+
+.swiper2-title {
+    width: 320px;
+    height: 90px;
+    background-color: #565656;
+    color: #ffffff;
+}
+
+.swiper2-title-title {
+    box-sizing: border-box;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .swiper-slide {
+        width: 100%;
+        height: 200px;
+    }
+
+    .swiper1.swiper-container {
+        --swiper-navigation-size: 20px;
+    }
+
+    .swiper2.swiper-container {
+        --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+    }
+    .swiper1 .swiper-slide {
+        height: 200px;
+    }
+    .product_section1 {
+        padding-top: 0;
+        text-align: center;
+    }
+
+    .product_section1_title {
+        width: 40%;
+        background-size: contain;
+        height: 40px;
+        margin: 10px auto;
+    }
+
+    .product_section1_image1 {
+        width: 95%;
+        background-size: contain;
+        height: 100px;
+    }
+
+    .product_section1_image2 {
+        width: 95%;
+        height: 100px;
+        background-size: contain;
+        margin: 10px auto;
+    }
+
+    .product_section1_image3 {
+        width: 95%;
+        height: 100px;
+        background-size: contain;
+        margin: 10px auto;
+    }
+
+    .product_section1_text {
+        margin: 0 auto 10px;
+        width: 100%;
+    }
+
+    .product_section1_image4 {
+        background-size: contain;
+        width: 80px;
+        height: 22px;
+        float: right;
+    }
+
+    .product_section2 {
+        background: url("../image/info/info_18.jpg") no-repeat center;
+        background-size: contain;
+        width: 100%;
+        height: 150px;
+        margin: 0;
+        position: relative;
+    }
+
+    .product_section2_title {
+        background-size: contain;
+        width: 40%;
+        height: 40px;
+        top: 0;
+    }
+
+    .product_section3 {
+        background-size: contain;
+        width: 40%;
+        height: 40px;
+        margin: 10px auto;
+    }
+
+    .swiper3 {
+        width: 100%;
+    }
+
+    .swiper3 .swiper-button-prev {
+        /*margin-left: -20px;*/
+    }
+
+    .swiper3 .swiper-slide {
+        height: 240px;
+    }
+
+    .swiper3.swiper-container {
+        --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+        --swiper-navigation-size: 20px;
+    }
+
+    .swiper3-slide-ad1 {
+        background: url("../image/info/info_23.jpg") no-repeat center;
+        background-size: cover;
+        height: 150px;
+        width: 100%;
+    }
+
+    .swiper3-slide-ad2 {
+        background: url("../image/info/info_25.jpg") no-repeat center;
+        background-size: cover;
+        height: 150px;
+        width: 100%;
+    }
+
+    .swiper3-slide-ad3 {
+        background: url("../image/info/info_27.jpg") no-repeat center;
+        background-size: cover;
+        height: 150px;
+        width: 100%;
+    }
+
+    .swiper3-title {
+        width: 100%;
+        height: 90px;
+        background-color: #565656;
+        color: #ffffff;
+    }
+
+    .swiper3-title-title {
+        box-sizing: border-box;
+        font-size: 12px;
+        padding: 10px 0;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 992px){
+    .swiper3 {
+        width: 100%;
+    }
+
+    .swiper3 .swiper-button-prev {
+        /*margin-left: -20px;*/
+    }
+
+    .swiper3 .swiper-slide {
+        height: 240px;
+    }
+
+    .swiper3.swiper-container {
+        --swiper-navigation-color: #969797; /* 单独设置按钮颜色 */
+        --swiper-navigation-size: 20px;
+    }
+
+    .swiper3-slide-ad1 {
+        background: url("../image/info/info_23.jpg") no-repeat center;
+        background-size: cover;
+        height: 150px;
+        width: 100%;
+    }
+
+    .swiper3-slide-ad2 {
+        background: url("../image/info/info_25.jpg") no-repeat center;
+        background-size: cover;
+        height: 150px;
+        width: 100%;
+    }
+
+    .swiper3-slide-ad3 {
+        background: url("../image/info/info_27.jpg") no-repeat center;
+        background-size: cover;
+        height: 150px;
+        width: 100%;
+    }
+
+    .swiper3-title {
+        width: 100%;
+        height: 90px;
+        background-color: #565656;
+        color: #ffffff;
+    }
+
+    .swiper3-title-title {
+        box-sizing: border-box;
+        font-size: 12px;
+        padding: 15px 0;
+    }
+}
