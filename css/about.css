@@ -14,24 +14,65 @@
 }
 
 .about_section1 {
-    background: url("../image/about/about_03.jpg") no-repeat center;
-    background-size: contain;
+    /*background: url("../image/about/about_03.jpg") no-repeat center;*/
+    /*background-size: contain;*/
+    display: flex;
     width: 1080px;
-    height: 350px;
+    /*height: 350px;*/
     margin: 40px auto;
+    background-color: transparent;
+}
+.about_section1_image img{
+    height: 300px;
+}
+.about_section1_text {
+    padding-left: 30px;
+    font-size: 18px;
+    color: #666666;
+    display: flex;
+    flex-direction: column;
+}
+.about_section1_text_title {
+    font-size: 30px;
+    color: #333333;
+    padding: 10px 0;
+}
+.about_section1_text_content {
+    flex: 1;
+}
+.about_section1_text_more {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.about_section1_text_more_image{
+    margin-left: 5px;
+    height: 30px;
 }
 .about_section2 {
-    background: url("../image/about/about_07.jpg") no-repeat center;
+    background: url("../image/about/about_20.jpg") no-repeat center;
     background-size: cover;
     width: 100%;
     height: 500px;
+    position: relative;
+    box-sizing: border-box;
+}
+.about_section2_text {
+    width: 55%;
+    margin: 0 auto;
+    color: #f8f8f8;
+}
+.about_section2_text_title {
+    text-align: center;
+    padding: 20px 0;
+}
+.about_section2_text_content {
+    color: #eeeeee;
+    line-height: 20px;
 }
 .about_section3 {
-    background: url("../image/about/about_11.jpg") no-repeat center;
-    background-size: contain;
-    width: 520px;
-    height: 88px;
     margin: 20px auto;
+    text-align: center;
 }
 .about_section4 {
     width: 1080px;
@@ -72,20 +113,38 @@
         height: 200px;
     }
     .about_section1 {
-        width: 95%;
-        height: 120px;
         margin: 10px auto;
+        width: 100%;
+    }
+    .about_section1_image img{
+        height: 120px;
+    }
+    .about_section1_text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+    .about_section1_text_title {
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        padding: 0 0 5px 0;
+    }
+    .about_section1_text_content {
+        flex: 1;
+        font-size: 12px;
+    }
+    .about_section1_text_more {
+        font-size: 12px;
+    }
+    .about_section1_text_more_image{
+        height: 20px;
     }
     .about_section2 {
-        background: url("../image/about/about_07.jpg") no-repeat center;
-        background-size: cover;
-        width: 100%;
-        height: 165px;
+        height: 450px;
     }
-    .about_section3 {
-        width: 40%;
-        height: 30px;
-        margin: 10px auto;
+    .about_section2_text {
+        width: 80%;
     }
     .about_section4 {
         width: 100%;

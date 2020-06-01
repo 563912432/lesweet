@@ -53,8 +53,17 @@ html, body {
 .col-000 {
     color: #000000!important;
 }
+.col-eee {
+    color: #eeeeee;
+}
+.col-fff {
+    color: #ffffff;
+}
 .col-333 {
     color: #333333!important;
+}
+.col-999 {
+    color: #999999!important;
 }
 .pointer {
     cursor: pointer;
@@ -64,6 +73,47 @@ html, body {
 }
 .mr-65 {
     margin-right: 65px;
+}
+.font-title-cn {
+    font-size: 30px;
+    color: #333333;
+}
+.font-title-cn1 {
+    font-size: 24px;
+    color: #333333;
+}
+.font-title-en {
+    font-size: 20px;
+    color: #999999
+}
+@media screen and (max-width: 768px){
+    .font-title-cn {
+        font-size: 18px;
+        color: #333333;
+    }
+    .font-title-en {
+        font-size: 12px;
+        color: #999999
+    }
+}
+.flex {
+    display: flex;
+}
+.align-center {
+    align-items: center;
+}
+a {
+    color: #333333;
+    display: block;
+}
+a:hover {
+    text-decoration:none;
+    color: #333333;
+}
+a:link,
+a:visited{
+    color: #333333;
+    text-decoration:none;
 }
  .navbar {
     min-height: 65px;
@@ -193,6 +243,7 @@ html, body {
     display: inline-block;
     border: solid 1px #ffffff;
     border-radius: 3px;
+    color: #ffffff!important;
 }
 .info {
     position: relative;
@@ -213,6 +264,9 @@ html, body {
 }
 .info-item:last-child {
     margin-right: 0;
+}
+.info-item a {
+    color: #969696;
 }
 .mobile-info-parent {
     background-color: #E8E8E8;
