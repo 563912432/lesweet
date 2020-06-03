@@ -14,7 +14,7 @@
 }
 
 .contact_section1 {
-    width: 1080px;
+    width: 1000px;
     margin: 30px auto;
     display: flex;
     justify-content: space-between;
@@ -30,7 +30,7 @@
 .contact_section2 {
     /*background: url("../image/contact/contact_06.jpg") no-repeat center;*/
     /*background-size: contain;*/
-    width: 1080px;
+    width: 1000px;
     background-color: #ffffff;
     border-radius: 5px;
     margin: 0 auto 20px;
@@ -58,20 +58,6 @@
     /*height: 130px;*/
     flex: 1;
     margin-left: 20px;
-}
-.contact_section3 {
-    background: url("../image/contact/contact_09.jpg") no-repeat center;
-    background-size: contain;
-    width: 1080px;
-    height: 380px;
-    margin: 20px auto;
-}
-.contact_section4 {
-    background: url("../image/contact/contact_11.jpg") no-repeat center;
-    background-size: contain;
-    width: 1080px;
-    height: 560px;
-    margin: 0 auto 20px;
 }
 
 

@@ -24,7 +24,7 @@
 
 .product_section4 {
     display: flex;
-    width: 1080px;
+    width: 1000px;
     margin: 30px auto;
     background-color: #F8F8F8;
 }
@@ -67,7 +67,7 @@
     color: #ffffff;
 }
 .product_section2_content {
-    width: 1080px;
+    width: 1000px;
     margin: 20px auto 0;
     display: flex;
 }
@@ -89,7 +89,7 @@
 }
 
 .swiper2 {
-    width: 1080px;
+    width: 1000px;
     margin: 0 auto;
 }
 
