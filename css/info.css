@@ -54,7 +54,6 @@
     background: url("../image/info/info_04.jpg") no-repeat center;
     background-size: cover;
     width: 100%;
-    height: 430px;
     margin: 20px 0;
     position: relative;
 }
@@ -70,13 +69,15 @@
     width: 1000px;
     margin: 20px auto 0;
     display: flex;
+    flex-wrap: wrap;
 }
 .product_section2_content_card {
-    flex: 1;
+    width: 25%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-bottom: 20px;
 }
 .product_section2_content_card_title {
     color: #eeeeee;
@@ -189,9 +190,6 @@
     }
     .product_section4_text_content {
         font-size: 12px;
-    }
-    .product_section2 {
-        height: 350px;
     }
     .product_section2_content {
         width: 100%;
