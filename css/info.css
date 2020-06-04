@@ -172,13 +172,35 @@
         margin: 30px auto;
         background-color: #F8F8F8;
     }
+    .product_section4_mobile_parent {
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 2%;
+        background-color: #F6F6F6;
+    }
+    .product_section4_mobile{
+        width: 47%;
+        margin-right: 2%;
+        margin-bottom: 10px;
+    }
     .product_section4_image img{
-        height: 100px;
+        height: 145px;
+        width: auto;
+        max-width: 100%;
     }
     .product_section4_text {
+        flex: 1;
         padding-left: 10px;
         padding-right: 10px;
         font-size: 14px;
+        height: 145px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 6;
+        -webkit-box-orient: vertical;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
     }
     .product_section4_text_title {
         font-size: 12px;
